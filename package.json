@@ -1,6 +1,6 @@
 {
-  "name": "minami",
-  "version": "1.2.3",
+  "name": "@reactual/minami",
+  "version": "0.0.2",
   "description": "Clean and minimal JSDoc 3 Template / Theme",
   "main": "publish.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nijikokun/minami.git"
+    "url": "https://github.com/reactual/minami.git"
   },
-  "author": "Nijiko Yonskai <nijikokun@gmail.com>",
+  "author": "Reactual <github@reactual.io>",
   "licenses": [
     {
       "type": "Apache-2.0",
@@ -18,7 +18,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/Nijikokun/minami/issues"
+    "url": "https://github.com/reactual/minami/issues"
   },
-  "homepage": "https://github.com/Nijikokun/minami"
+  "homepage": "https://github.com/reactual/minami"
 }
