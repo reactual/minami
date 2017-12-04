@@ -1,6 +1,6 @@
 {
   "name": "@reactual/minami",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Clean and minimal JSDoc 3 Template / Theme",
   "main": "publish.js",
   "scripts": {
@@ -11,12 +11,10 @@
     "url": "https://github.com/reactual/minami.git"
   },
   "author": "Reactual <github@reactual.io>",
-  "licenses": [
-    {
-      "type": "Apache-2.0",
-      "url": "http://www.apache.org/licenses/LICENSE-2.0"
-    }
-  ],
+  "licenses": [{
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0"
+  }],
   "bugs": {
     "url": "https://github.com/reactual/minami/issues"
   },
